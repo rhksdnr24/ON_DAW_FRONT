@@ -20,7 +20,7 @@ This will download the project and move you into the project directory.
 
 Of coure you should install nodejs before running npm
 
-### `npm start`
+## `npm start`
 Run the following commands in your terminal:
 
 ```bash
