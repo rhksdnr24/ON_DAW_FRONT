@@ -22,5 +22,5 @@ Run the following commands in your terminal:
 ```bash
 git clone https://github.com/rhksdnr24/ON_DAW_FRONT.git
 cd ON_DAW_FRONT
-
+```
 This will download the project and move you into the project directory.
